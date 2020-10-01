@@ -1,4 +1,4 @@
-# Verification of the Flow Framework from "Local Reasoning for Global Graph Properties"
+# Master's Thesis: Verification of the Flow Framework from "Local Reasoning for Global Graph Properties"
 
 ## Abstract
 
