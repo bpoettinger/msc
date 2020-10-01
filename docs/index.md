@@ -4,7 +4,7 @@
 
 >  The Flow Framework [1,2] introduces a separation algebra that allows handling potentially unbounded
 >  side-effects of modifications to global graph properties in a modular fashion.
->  In this thesis we formalize the Flow Framework as presented in ``Local Reasoning for Global Graph Properties''
+>  In this thesis we formalize the Flow Framework as presented in "Local Reasoning for Global Graph Properties"
 >  [1].
 >  Subsequently, we demonstrate the application of the Flow Framework by verifying a graph algorithm.
 >  Finally, we present a significantly refined proof for a central theorem of the framework.
