@@ -1,5 +1,7 @@
 # Master's Thesis: Verification of the Flow Framework from "Local Reasoning for Global Graph Properties"
 
+*Bernhard Pöttinger*
+
 ## Abstract
 
 >  The Flow Framework [1,2] introduces a separation algebra that allows handling potentially unbounded
