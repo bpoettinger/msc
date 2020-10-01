@@ -18,5 +18,5 @@
 
 ## References
 
-* [1] Siddharth Krishna, Alexander J. Summers, and Thomas Wies: Local Reasoning for Global Graph Properties, [https://cs.nyu.edu/~siddharth/](https://cs.nyu.edu/~siddharth/)
+* [1] Siddharth Krishna, Alexander J. Summers, and Thomas Wies: Local Reasoning for Global Graph Properties, ESOP 2020, [https://cs.nyu.edu/~siddharth/](https://cs.nyu.edu/~siddharth/)
 * [2] Siddharth Krishna: Compositional Abstractions for Verifying Concurrent Data Structures, [https://cs.nyu.edu/~siddharth/](https://cs.nyu.edu/~siddharth/)
