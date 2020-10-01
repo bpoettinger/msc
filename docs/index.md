@@ -9,8 +9,10 @@
 >  Subsequently, we demonstrate the application of the Flow Framework by verifying a graph algorithm.
 >  Finally, we present a significantly refined proof for a central theorem of the framework.
 
-[Thesis](https://github.com/bpoettinger/msc/docs/thesis.pdf),
-Isabelle Session: [https://github.com/bpoettinger/msc](https://github.com/bpoettinger/msc)
+## Artifacts
+
+* Thesis: [pdf](https://github.com/bpoettinger/msc/docs/thesis.pdf),
+* Isabelle Session: [https://github.com/bpoettinger/msc](https://github.com/bpoettinger/msc)
 
 ## References
 
