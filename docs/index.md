@@ -11,7 +11,7 @@
 
 ## Artifacts
 
-* Thesis: [pdf](https://github.com/bpoettinger/msc/docs/thesis.pdf),
+* Thesis: [pdf](https://github.com/bpoettinger/msc/docs/thesis.pdf)
 * Isabelle Session: [https://github.com/bpoettinger/msc](https://github.com/bpoettinger/msc)
 
 ## References
