@@ -1,6 +1,6 @@
 # Master's Thesis: Verification of the Flow Framework from "Local Reasoning for Global Graph Properties"
 
-*Bernhard Pöttinger*
+Author: *Bernhard Pöttinger*
 
 ## Abstract
 
