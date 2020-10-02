@@ -14,7 +14,7 @@
 ## Artifacts
 
 * Thesis: [pdf](https://github.com/bpoettinger/msc/raw/master/thesis.pdf)
-* Isabelle Session `Flow`: [Repository](https://github.com/bpoettinger/msc)
+* Isabelle Session `Flow`: [Repository](https://github.com/bpoettinger/Flow)
 
 ## References
 

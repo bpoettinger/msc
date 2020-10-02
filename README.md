@@ -11,8 +11,8 @@
 
 ## Artifacts
 
-* thesis.pdf
-* Isabelle Session `Flow` (see `Flow/README.md`)
+* Thesis: [thesis.pdf](https://github.com/bpoettinger/msc/raw/master/thesis.pdf)
+* Isabelle Session: [`Flow`](https://github.com/bpoettinger/Flow) (see `Flow/README.md` there for more detail)
 
 ## References
 
