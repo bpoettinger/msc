@@ -13,7 +13,7 @@
 
 ## Artifacts
 
-* Thesis: [pdf](https://github.com/bpoettinger/msc/raw/master/thesis.pdf)
+* Thesis: [pdf](https://github.com/bpoettinger/msc/raw/master/thesis.pdf) (**Update 2021-02-16: the thesis now is also officially published on [mediaTUM](https://mediatum.ub.tum.de/?id=1593456)**)
 * Isabelle Session `Flow`: [Repository](https://github.com/bpoettinger/Flow)
 
 ## References
